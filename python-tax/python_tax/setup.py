@@ -8,11 +8,11 @@ setup(
     name="python-tax",
     version="0.1.0",
     author="E-File Backend Team",
-    author_email="dev@efile-backend.com",
+    author_email="ope.olatunji@taxmeai.com",
     description="US Federal and State Tax Calculation Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/python-tax",
+    url="https://github.com/taxmeai/e-file-tax-libraries/python-tax",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
