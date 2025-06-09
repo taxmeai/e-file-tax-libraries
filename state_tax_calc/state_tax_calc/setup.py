@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="state-tax-calc",
     version="0.1.0",
-    author="E-File Backend Team",
+    author="Ope Olatunji",
     author_email="ope.olatunji@taxmeai.com",
     description="US State Tax Calculation Library",
     long_description=long_description,
