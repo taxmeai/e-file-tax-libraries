@@ -8,7 +8,7 @@ setup(
     name="state-tax-calc",
     version="0.1.0",
     author="E-File Backend Team",
-    author_email="dev@efile-backend.com",
+    author_email="ope.olatunji@taxmeai.com",
     description="US State Tax Calculation Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
