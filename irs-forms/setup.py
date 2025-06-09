@@ -7,12 +7,12 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="irs-forms",
     version="1.0.0",
-    author="E-File Backend Team",
-    author_email="dev@efile-backend.com",
+    author="Ope Olatunji",
+    author_email="ope.olatunji@taxmeai.com",
     description="Official IRS Forms Processing and E-Filing Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/irs-forms",
+    url="https://github.com/taxmeai/e-file-tax-libraries/irs-forms",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
